@@ -50,6 +50,6 @@ if($choice=='a'){
 }
 //Result
 echo"\n----Quiz is finished----\n";
-echo "\nResult: You got $score out of 3";
+echo "\nResult:: You got $score out of 3";
 
 ?>
